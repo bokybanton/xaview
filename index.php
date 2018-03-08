@@ -5,7 +5,7 @@
 		
 	</head>
 	
-	<body>
+	<body class="container">
 		<h1><b>Xa</b>drez <b>view</b>er</h1>
 		<hr>
 		<p><b>Xaview</b> é un acrónimo das palabras «Xadrez» e «viewer» (do inglés visor)</p>
@@ -23,7 +23,18 @@
 			<h2>Código fonte</h2>
 			<hr>
 			<p><a href="https://www.github.com/">github/xaview</a></p>
+		<hr>
+		<h2>Visor</h2>
+		<div id="cargar_arquivo">
+			<form action="index_submit" method="post" accept-charset="utf-8">
+				<input type="file" name="arquivo" value="" id="arquivo">
+
+				<p><input type="submit" value="Cargar &rarr;"></p>
+			</form>
+		</div>
+		<div id="tablero">
 			
+		</div>
 			
 			
 			
