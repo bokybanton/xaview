@@ -1,3 +1,15 @@
-# xaview
-This is a simple Chess viewer using Bootstrap 4, JQuery, Chess.js and Chessboard.js
-[*] Dependencies
+# Xaview
+
+Xaview is a simple & responsive «Chess viewer» for the web.
+
+## Dependencies
+
+I need this for displaying my chess games.
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+You need JQuery, Bootstrap 4, Chess.js and chessboard.js
+```
